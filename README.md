@@ -9,7 +9,7 @@ Parte3: Gramáticas independientes del contexto, Automatas Apiladores y equivale
 Parte4: Maquinas de Turing
 
 
-Contiene la parte 2 y 3 (y analizadores sintacticos, materia que no entro el 01-2024) \n
+Contiene la parte 2 y 3 (y analizadores sintacticos, materia que no entro el 01-2024)
 Biblia: https://drive.google.com/file/d/1TD8l-F6K4MSmSVtHyJuEdS6j6bhnF27f/view?usp=drive_link
 
 Contiene ppt's, guías y grabaciones de la parte 2 y 3 (y analizadores sintacticos, materia que no entro el 01-2024)
