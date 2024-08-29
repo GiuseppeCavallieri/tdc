@@ -1,0 +1,7 @@
+(Consuelo) Para el lenguaje con un alfabeto {a,b,c}, este tiene todas las palabras que tienen al menos una a.
+
+Construya una GRLD
+Construya una ER y simplifiquela
+Construya un AFD y simplifiquelo
+
+(Daniel) Arbol sintactico, LP, LPO y MT
