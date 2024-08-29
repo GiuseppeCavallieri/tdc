@@ -33,6 +33,12 @@ Material PLF: https://drive.google.com/drive/folders/1PrllWLox0VWsa_1gu3T-IjXPv5
 
 
 -
+Papeo
+
+https://github.com/open-source-usach/papeos-guias/tree/main/%5BTDC%5D%20-%20Teor%C3%ADa%20de%20Computaci%C3%B3n
+
+
+-
 Mucho material
 
 Material TDC: https://drive.google.com/drive/folders/1eGXcxO7CdlgRp5uaxTArSrshguHTwZUf?usp=drive_link
